@@ -65,5 +65,5 @@ Workout Tracker API is a Spring Boot–based backend service designed to help us
 
 ### Clone Repository
 ```bash
-git clone https://github.com/your-username/workout-tracker-api.git
+https://github.com/SahanAGunasekara/WorkoutTrackerAPI.git
 cd workout-tracker-api
